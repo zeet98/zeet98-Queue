@@ -1,6 +1,5 @@
 import java.util.Deque;
 import java.util.Queue;
-import java.util.ArrayDeque;
 
 /**
  * Queues are FIFO - first in, first out, like a checkout line. They are used in algorithms where it is needed to keep
@@ -29,7 +28,7 @@ import java.util.ArrayDeque;
  * to handle multiple 'priorities' of items. You can read about PriorityQueue here:
  * https://www.geeksforgeeks.org/priority-queue-class-in-java/
  */
-public class QueueExercise {
+public class Lab {
     /**
      * Instantiate and return some type of Deque, which is a class that contains Queue and Stack functionality.
      * @return an instantiated Deque. Queue, by itself, doesn't have a class, so you should use a class that

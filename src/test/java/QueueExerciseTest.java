@@ -5,10 +5,10 @@ import org.junit.Test;
 import java.util.Queue;
 
 public class QueueExerciseTest {
-    static QueueExercise qe ;
+    static Lab qe ;
     @BeforeClass
     public static void setUp(){
-        qe = new QueueExercise();
+        qe = new Lab();
     }
 
     /**
